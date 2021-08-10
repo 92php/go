@@ -13,3 +13,7 @@ go语言 菜鸟教程
 3.test3.go  //Go 语言基础语法
 
 4.test4.go  //Go 语言数据类型
+
+5.test5.go  //Go 语言变量
+
+6.test6.go  //Go 语言常量
