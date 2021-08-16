@@ -32,4 +32,10 @@ go语言 菜鸟教程
 
 13.test13.go  //Go 语言指针
 
+14.test14.go  //Go 语言结构体
+
+15.test15.go  //Go 语言切片(Slice)
+
+16.test16.go  //Go 语言范围(Range)
+
 
