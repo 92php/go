@@ -38,4 +38,14 @@ go语言 菜鸟教程
 
 16.test16.go  //Go 语言范围(Range)
 
+17.test17.go  //Go 语言Map(集合)
+
+18.test18.go  //基于 go 实现简单 HashMap，暂未做 key 值的校验
+
+19.test19.go  //Go 语言递归函数
+
+20.test20.go  //Go 语言类型转换
+
+21.test21.go  //Go 语言接口
+
 
